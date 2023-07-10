@@ -1,0 +1,5 @@
+another git.txt file is created
+Lorem ipsum dolor sit amet consectetur
+adipisicing elit. Placeat blanditiis 
+modi doloremque nulla commodi nobis.
+Rerum et iusto sunt obcaecati!
