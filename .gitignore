@@ -1,2 +1,3 @@
-git.txt
-notes/
+logs/
+main.log
+*.log
