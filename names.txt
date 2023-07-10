@@ -1,5 +1,0 @@
-sundaram kumar jha
-I am Learning git version control
-I am testing my learnings.....
-I am names.txt file 
-this is the new branch in in names.txt
